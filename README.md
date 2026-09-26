@@ -58,8 +58,8 @@
 ### Clone & Install
 
 ```bash
-git clone https://github.com/ApsXminer/AIO-V1.git
-cd AIO-V1
+git clone https://github.com/MonzFourYou/Solace-Zad-Bot.git
+cd Solace-Zad-Bot
 npm install
 ````
 
